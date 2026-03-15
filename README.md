@@ -85,7 +85,7 @@ python manage.py createsuperuser
 
 - 数据库名：Demo
 - 用户名：root
-- 密码：Lyp552034#
+- 密码：
 - 主机：127.0.0.1
 - 端口：3306
 
